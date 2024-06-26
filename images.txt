@@ -1,1 +1,1 @@
-docker/xiaoya
+docker/xiaoya/alist
